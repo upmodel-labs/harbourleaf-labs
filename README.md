@@ -20,7 +20,7 @@ Practice labs for **UpModel** learners: the hands-on Tasks behind each chapter.
 | Folder | Module · chapter | Task | Status |
 |---|---|---|---|
 | [`labs/pyt01`](labs/pyt01) | Python for Testers · Python Setup & First Script for Testers | HLF-P31 · Your first run summary | ready |
-| `labs/pyt02` | Python for Testers · Conditions & Loops: Deciding Pass or Fail | HLF-P32 | coming soon |
+| [`labs/pyt02`](labs/pyt02) | Python for Testers · Conditions & Loops: Deciding Pass or Fail | HLF-P32 · Pass or fail, night by night | ready |
 | `labs/pyt03` | Python for Testers · Lists, Tuples, Dictionaries & JSON Test Data | HLF-P33 | coming soon |
 | `labs/pyt04` | Python for Testers · Functions, Modules & Classes | HLF-P34 | coming soon |
 | `labs/pyt05` | Python for Testers · Errors, Exceptions & Debugging | HLF-P35 | coming soon |
