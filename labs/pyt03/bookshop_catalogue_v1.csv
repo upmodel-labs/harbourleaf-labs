@@ -1,0 +1,41 @@
+id,title,category,price,isbn,stock,in_stock
+B-201,The Lantern Room,fiction,6.99,9781000000000,0,False
+B-202,Salt and Willow,fiction,7.36,9781000007919,5,True
+B-203,A Quiet Harbour,fiction,7.73,9781000015838,10,True
+B-204,North of the River,fiction,8.10,9781000023757,2,True
+B-205,The Paper Orchard,fiction,8.47,9781000031676,7,True
+B-206,Glass Weather,fiction,8.84,9781000039595,12,True
+B-207,Ten Small Lights,fiction,9.21,9781000047514,4,True
+B-208,The Long Platform,fiction,9.58,9781000055433,9,True
+B-209,Under the Linden,fiction,9.95,9781000063352,1,True
+B-210,Pip and the Puddle,children,10.32,9781000071271,6,True
+B-211,The Sleepy Snail,children,10.69,9781000079190,11,True
+B-212,Moon Biscuits,children,,9781000087109,3,True
+B-213,A Kite for Kofi,children,11.43,9781000095028,8,True
+B-214,Owl Goes to School,children,11.80,9781000102947,0,False
+B-215,Rain Boots Day,children,12.17,9781000110866,5,True
+B-207,Ten Small Lights,fiction,9.21,9781000047514,4,True
+B-216,The Lost Mitten,children,12.54,9781000118785,10,True
+B-217,Tiny Tugboat,children,12.91,9781000126704,2,True
+B-218,One Pot Evenings,cookery,13.28,9781000134623,7,True
+B-219,Bread at Home,cookery,13.65,978100014254,12,True
+B-220,The Spice Shelf,cookery,14.02,9781000150461,4,True
+B-221,Soups for Winter,cookery,14.39,9781000158380,9,True
+B-222,Simple Curries,cookery,14.76,9781000166299,1,True
+B-223,Bake It Slowly,cookery,15.13,9781000174218,6,True
+B-224,Green Kitchen,cookery,15.50,9781000182137,11,True
+B-225,Walking the Coast,travel,15.87,9781000190056,3,True
+B-226,Rail Journeys North,travel,16.24,9781000197975,8,True
+B-227,Islands by Ferry,travel,16.61,9781000205894,0,False
+B-228,Mountain Villages,travel,16.98,9781000213813,5,True
+B-229,City on Foot,travel,17.35,9781000221732,10,True
+B-230,Lakes and Lochs,travel,17.72,9781000229651,2,True
+B-231,Market Towns,travel,,9781000237570,7,True
+B-232,The Canal Builders,history,18.46,9781000245489,12,True
+B-233,Lighthouses of the West,history,18.83,9781000253408,4,True
+B-234,A History of Tea,history,19.20,9781000261327,9,True
+B-235,The Mill Town,history,19.57,9781000269246,-1,False
+B-236,Letters from the Front,history,19.94,9781000277165,6,True
+B-237,The Map Makers,history,20.31,9781000285084,11,True
+B-238,Old Roads,history,20.68,9781000293003,3,True
+B-226,Rail Journeys North,travel,16.24,9781000197975,8,True

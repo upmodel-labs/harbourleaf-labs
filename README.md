@@ -21,10 +21,14 @@ Practice labs for **UpModel** learners: the hands-on Tasks behind each chapter.
 |---|---|---|---|
 | [`labs/pyt01`](labs/pyt01) | Python for Testers · Python Setup & First Script for Testers | HLF-P31 · Your first run summary | ready |
 | [`labs/pyt02`](labs/pyt02) | Python for Testers · Conditions & Loops: Deciding Pass or Fail | HLF-P32 · Pass or fail, night by night | ready |
-| `labs/pyt03` | Python for Testers · Lists, Tuples, Dictionaries & JSON Test Data | HLF-P33 | coming soon |
-| `labs/pyt04` | Python for Testers · Functions, Modules & Classes | HLF-P34 | coming soon |
-| `labs/pyt05` | Python for Testers · Errors, Exceptions & Debugging | HLF-P35 | coming soon |
-| `labs/pyt06` | Python for Testers · Packages, Virtual Environments & Framework-Ready Code | HLF-P36 | coming soon |
+| [`labs/pyt03`](labs/pyt03) | Python for Testers · Lists, Tuples, Dictionaries & JSON Test Data | HLF-P33 · Count what's in the file | ready |
+| [`labs/pyt04`](labs/pyt04) | Python for Testers · Functions, Modules & Classes | HLF-P34 · One check, one place | ready |
+| [`labs/pyt05`](labs/pyt05) | Python for Testers · Errors, Exceptions & Debugging | HLF-P35 · Make it fail loudly | ready |
+| [`labs/pyt06`](labs/pyt06) | Python for Testers · Packages, Virtual Environments & Framework-Ready Code | HLF-P36 · Same result on every machine | ready |
+
+## Module project
+
+[`project/pickup_qa`](project/pickup_qa): starter files for the Python for Testers module project, *Store pickup launch check*. The brief and the grading are in UpModel.
 
 ## Rules for this repo
 

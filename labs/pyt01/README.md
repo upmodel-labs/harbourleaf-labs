@@ -3,7 +3,9 @@
 **From:** Priya, QA Lead · **About:** 45 min · **Chapter:** Python for Testers · Python Setup & First Script for Testers
 **Not scored. Unlimited attempts.**
 
-> "The bookshop's nightly checks have finished: 120 checks, 9 failed, 3 skipped. Nobody should count that by hand again. Write the script that prints the summary, and tell me which pass rate I should report."
+> **The bookshop** is the practice online bookshop that Priya's Tasks use. It is separate from Harbourleaf, the store in the videos, and all of its data is fictional.
+
+> "The practice bookshop's nightly checks have finished: 120 checks, 9 failed, 3 skipped. Nobody should count that by hand again. Write the script that prints the summary, and tell me which pass rate I should report."
 
 ## Steps
 

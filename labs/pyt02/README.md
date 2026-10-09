@@ -3,7 +3,9 @@
 **From:** Priya, QA Lead · **About:** 50 min · **Chapter:** Python for Testers · Conditions & Loops: Deciding Pass or Fail
 **Not scored. Unlimited attempts.**
 
-> "The bookshop's search answers were scored on 12 nights against a gate of 46. Sara wants pass or fail for each night, and I want the boundary nights handled properly."
+> **The bookshop** is the practice online bookshop that Priya's Tasks use. It is separate from Harbourleaf, the store in the videos, and all of its data is fictional.
+
+> "The practice bookshop's search answers were scored on 12 nights against a gate of 46. Sara, the Product Owner, wants pass or fail for each night, and I want the boundary nights handled properly."
 
 ## Data
 

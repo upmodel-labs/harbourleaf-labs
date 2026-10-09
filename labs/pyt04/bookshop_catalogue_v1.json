@@ -1,0 +1,362 @@
+[
+  {
+    "id": "B-201",
+    "title": "The Lantern Room",
+    "category": "fiction",
+    "price": 6.99,
+    "isbn": "9781000000000",
+    "stock": 0,
+    "in_stock": false
+  },
+  {
+    "id": "B-202",
+    "title": "Salt and Willow",
+    "category": "fiction",
+    "price": 7.36,
+    "isbn": "9781000007919",
+    "stock": 5,
+    "in_stock": true
+  },
+  {
+    "id": "B-203",
+    "title": "A Quiet Harbour",
+    "category": "fiction",
+    "price": 7.73,
+    "isbn": "9781000015838",
+    "stock": 10,
+    "in_stock": true
+  },
+  {
+    "id": "B-204",
+    "title": "North of the River",
+    "category": "fiction",
+    "price": 8.1,
+    "isbn": "9781000023757",
+    "stock": 2,
+    "in_stock": true
+  },
+  {
+    "id": "B-205",
+    "title": "The Paper Orchard",
+    "category": "fiction",
+    "price": 8.47,
+    "isbn": "9781000031676",
+    "stock": 7,
+    "in_stock": true
+  },
+  {
+    "id": "B-206",
+    "title": "Glass Weather",
+    "category": "fiction",
+    "price": 8.84,
+    "isbn": "9781000039595",
+    "stock": 12,
+    "in_stock": true
+  },
+  {
+    "id": "B-207",
+    "title": "Ten Small Lights",
+    "category": "fiction",
+    "price": 9.21,
+    "isbn": "9781000047514",
+    "stock": 4,
+    "in_stock": true
+  },
+  {
+    "id": "B-208",
+    "title": "The Long Platform",
+    "category": "fiction",
+    "price": 9.58,
+    "isbn": "9781000055433",
+    "stock": 9,
+    "in_stock": true
+  },
+  {
+    "id": "B-209",
+    "title": "Under the Linden",
+    "category": "fiction",
+    "price": 9.95,
+    "isbn": "9781000063352",
+    "stock": 1,
+    "in_stock": true
+  },
+  {
+    "id": "B-210",
+    "title": "Pip and the Puddle",
+    "category": "children",
+    "price": 10.32,
+    "isbn": "9781000071271",
+    "stock": 6,
+    "in_stock": true
+  },
+  {
+    "id": "B-211",
+    "title": "The Sleepy Snail",
+    "category": "children",
+    "price": 10.69,
+    "isbn": "9781000079190",
+    "stock": 11,
+    "in_stock": true
+  },
+  {
+    "id": "B-212",
+    "title": "Moon Biscuits",
+    "category": "children",
+    "price": null,
+    "isbn": "9781000087109",
+    "stock": 3,
+    "in_stock": true
+  },
+  {
+    "id": "B-213",
+    "title": "A Kite for Kofi",
+    "category": "children",
+    "price": 11.43,
+    "isbn": "9781000095028",
+    "stock": 8,
+    "in_stock": true
+  },
+  {
+    "id": "B-214",
+    "title": "Owl Goes to School",
+    "category": "children",
+    "price": 11.8,
+    "isbn": "9781000102947",
+    "stock": 0,
+    "in_stock": false
+  },
+  {
+    "id": "B-215",
+    "title": "Rain Boots Day",
+    "category": "children",
+    "price": 12.17,
+    "isbn": "9781000110866",
+    "stock": 5,
+    "in_stock": true
+  },
+  {
+    "id": "B-207",
+    "title": "Ten Small Lights",
+    "category": "fiction",
+    "price": 9.21,
+    "isbn": "9781000047514",
+    "stock": 4,
+    "in_stock": true
+  },
+  {
+    "id": "B-216",
+    "title": "The Lost Mitten",
+    "category": "children",
+    "price": 12.54,
+    "isbn": "9781000118785",
+    "stock": 10,
+    "in_stock": true
+  },
+  {
+    "id": "B-217",
+    "title": "Tiny Tugboat",
+    "category": "children",
+    "price": 12.91,
+    "isbn": "9781000126704",
+    "stock": 2,
+    "in_stock": true
+  },
+  {
+    "id": "B-218",
+    "title": "One Pot Evenings",
+    "category": "cookery",
+    "price": 13.28,
+    "isbn": "9781000134623",
+    "stock": 7,
+    "in_stock": true
+  },
+  {
+    "id": "B-219",
+    "title": "Bread at Home",
+    "category": "cookery",
+    "price": 13.65,
+    "isbn": "978100014254",
+    "stock": 12,
+    "in_stock": true
+  },
+  {
+    "id": "B-220",
+    "title": "The Spice Shelf",
+    "category": "cookery",
+    "price": 14.02,
+    "isbn": "9781000150461",
+    "stock": 4,
+    "in_stock": true
+  },
+  {
+    "id": "B-221",
+    "title": "Soups for Winter",
+    "category": "cookery",
+    "price": 14.39,
+    "isbn": "9781000158380",
+    "stock": 9,
+    "in_stock": true
+  },
+  {
+    "id": "B-222",
+    "title": "Simple Curries",
+    "category": "cookery",
+    "price": 14.76,
+    "isbn": "9781000166299",
+    "stock": 1,
+    "in_stock": true
+  },
+  {
+    "id": "B-223",
+    "title": "Bake It Slowly",
+    "category": "cookery",
+    "price": 15.13,
+    "isbn": "9781000174218",
+    "stock": 6,
+    "in_stock": true
+  },
+  {
+    "id": "B-224",
+    "title": "Green Kitchen",
+    "category": "cookery",
+    "price": 15.5,
+    "isbn": "9781000182137",
+    "stock": 11,
+    "in_stock": true
+  },
+  {
+    "id": "B-225",
+    "title": "Walking the Coast",
+    "category": "travel",
+    "price": 15.87,
+    "isbn": "9781000190056",
+    "stock": 3,
+    "in_stock": true
+  },
+  {
+    "id": "B-226",
+    "title": "Rail Journeys North",
+    "category": "travel",
+    "price": 16.24,
+    "isbn": "9781000197975",
+    "stock": 8,
+    "in_stock": true
+  },
+  {
+    "id": "B-227",
+    "title": "Islands by Ferry",
+    "category": "travel",
+    "price": 16.61,
+    "isbn": "9781000205894",
+    "stock": 0,
+    "in_stock": false
+  },
+  {
+    "id": "B-228",
+    "title": "Mountain Villages",
+    "category": "travel",
+    "price": 16.98,
+    "isbn": "9781000213813",
+    "stock": 5,
+    "in_stock": true
+  },
+  {
+    "id": "B-229",
+    "title": "City on Foot",
+    "category": "travel",
+    "price": 17.35,
+    "isbn": "9781000221732",
+    "stock": 10,
+    "in_stock": true
+  },
+  {
+    "id": "B-230",
+    "title": "Lakes and Lochs",
+    "category": "travel",
+    "price": 17.72,
+    "isbn": "9781000229651",
+    "stock": 2,
+    "in_stock": true
+  },
+  {
+    "id": "B-231",
+    "title": "Market Towns",
+    "category": "travel",
+    "price": null,
+    "isbn": "9781000237570",
+    "stock": 7,
+    "in_stock": true
+  },
+  {
+    "id": "B-232",
+    "title": "The Canal Builders",
+    "category": "history",
+    "price": 18.46,
+    "isbn": "9781000245489",
+    "stock": 12,
+    "in_stock": true
+  },
+  {
+    "id": "B-233",
+    "title": "Lighthouses of the West",
+    "category": "history",
+    "price": 18.83,
+    "isbn": "9781000253408",
+    "stock": 4,
+    "in_stock": true
+  },
+  {
+    "id": "B-234",
+    "title": "A History of Tea",
+    "category": "history",
+    "price": 19.2,
+    "isbn": "9781000261327",
+    "stock": 9,
+    "in_stock": true
+  },
+  {
+    "id": "B-235",
+    "title": "The Mill Town",
+    "category": "history",
+    "price": 19.57,
+    "isbn": "9781000269246",
+    "stock": -1,
+    "in_stock": false
+  },
+  {
+    "id": "B-236",
+    "title": "Letters from the Front",
+    "category": "history",
+    "price": 19.94,
+    "isbn": "9781000277165",
+    "stock": 6,
+    "in_stock": true
+  },
+  {
+    "id": "B-237",
+    "title": "The Map Makers",
+    "category": "history",
+    "price": 20.31,
+    "isbn": "9781000285084",
+    "stock": 11,
+    "in_stock": true
+  },
+  {
+    "id": "B-238",
+    "title": "Old Roads",
+    "category": "history",
+    "price": 20.68,
+    "isbn": "9781000293003",
+    "stock": 3,
+    "in_stock": true
+  },
+  {
+    "id": "B-226",
+    "title": "Rail Journeys North",
+    "category": "travel",
+    "price": 16.24,
+    "isbn": "9781000197975",
+    "stock": 8,
+    "in_stock": true
+  }
+]

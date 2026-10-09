@@ -1,0 +1,14 @@
+check_id,status,seconds
+search_by_title,pass,1.2
+search_by_author,pass,1.4
+add_to_basket,pass,2.1
+remove_from_basket,pass,1.9
+reserve_a_copy,fail,6.8
+checkout_card,pass,4.3
+checkout_gift_card,fail,5.2
+wishlist_add,pass,1.1
+store_hours_page,pass,0.8
+gift_card_balance,pass,12.4
+order_history,pass,3.7
+recommendations,fail,7.9
+newsletter_signup,pass,0.9

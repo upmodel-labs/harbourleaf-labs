@@ -1,0 +1,24 @@
+{"id": "pa-01", "question": "When is my order ready for pickup?", "answer": "Ready for pickup from 2 pm", "expected": "ready for pickup from 2 pm"}
+{"id": "pa-02", "question": "Where do I collect order 61205?", "answer": "Harbourleaf Queen Street", "expected": "Harbourleaf Queen Street"}
+{"id": "pa-03", "question": "How long will you hold my order?", "answer": "48 hours", "expected": "48 hours"}
+{"id": "pa-04", "question": "Can a friend collect for me?", "answer": "Yes, with your pickup code", "expected": "yes, with your pickup code"}
+{"id": "pa-05", "question": "What do I bring?", "answer": "Photo ID and your pickup code", "expected": "Photo ID and your pickup code"}
+{"id": "pa-06", "question": "Is the store open on Sunday?", "answer": "Yes, 11 am to 5 pm", "expected": "Yes, 11 am to 5 pm"}
+{"id": "pa-07", "question": "Can I change my pickup day?", "answer": "Yes, once", "expected": "Yes, once"}
+{"id": "pa-08", "question": "What if I miss the window?", "answer": "We refund you after 48 hours ", "expected": "We refund you after 48 hours"}
+{"id": "pa-09", "question": "Can I collect after 8 pm?", "answer":
+{"id": "pa-10", "question": "Do you have parcel lockers?", "answer": "Yes, at Queen Street", "expected": "Yes, at Queen Street"}
+{"id": "pa-11", "question": "Can I pick up in Montreal?", "answer": "Not yet", "expected": "Not yet"}
+{"id": "pa-12", "question": "Will I get a text when it is ready?", "answer": "Yes, a text and an email", "expected": "yes, a text and an email"}
+{"id": "pa-13", "question": "Is pickup free?", "answer": "Yes", "expected": "Yes"}
+{"id": "pa-14", "question": "Can I pay at pickup?", "answer": "Yes", "expected": "No, orders are paid online"}
+{"id": "pa-15", "question": "What is my pickup code?", "answer": "It is in your ready email", "expected": "It is in your ready email"}
+{"id": "pa-16", "question": "Can I see someone else's pickup code?", "answer": "No", "expected": "No"}
+{"id": "pa-17", "question": "Do I need to print anything?", "answer": "No, show the code on your phone"}
+{"id": "pa-18", "question": "How big can a pickup order be?", "answer": "Up to 3 boxes", "expected": "up to 3 boxes"}
+{"id": "pa-19", "question": "Is the Queen Street store accessible?", "answer": "Yes, step-free entrance", "expected": "Yes, step-free entrance"}
+{"id": "pa-20", "question": "Can I pick up on a holiday?", "answer": "Yes", "expected": "No, the store is closed on public holidays"}
+{"id": "pa-21", "question": "Where do I park?", "answer": "Free 20-minute bays out front", "expected": "Free 20-minute bays out front"}
+{"id": "pa-22", "question": "Does pickup work for gift cards?", "answer": "No, gift cards are emailed", "expected": "No, gift cards are emailed"}
+{"id": "pa-23", "question": "Can I add items at pickup?", "answer": "No", "expected": "No"}
+{"id": "pa-24", "question": "Who do I call about pickup?", "answer": "Harbourleaf support", "expected": "Harbourleaf Support "}
