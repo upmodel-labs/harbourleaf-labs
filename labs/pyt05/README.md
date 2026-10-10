@@ -15,7 +15,7 @@
 | `search_scores.jsonl` | 30 review scores (0 to 5) for the bookshop's search answers. Three rows are bad. |
 | `empty_run.csv` | Track *Test runs*: a run where no checks ran (header only) |
 | `bookshop_attacks_v2.jsonl` | Track *Attack logs*: one attack has no payload |
-| `demo/` | The file used in the chapter's demo |
+| `demo/` | Extra practice file (the same data the chapter's examples use) |
 
 The gate: the **average score must be at least 4.0**.
 

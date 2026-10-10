@@ -15,7 +15,7 @@
 | `tests/test_bookshop_checks.py` | One example test. Your tests go here. |
 | `requirements.txt` | The packages this project needs, pinned |
 | `pytest.ini` | Tells PyTest where the tests are, and lets them import `bookshop_checks` |
-| `demo/leak_scan/` | The project used in the chapter's demo |
+| `demo/leak_scan/` | Extra practice project (the same one the chapter's examples use) |
 
 Needs **Python 3.10 or later** (pytest 9.1.1).
 

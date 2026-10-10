@@ -16,7 +16,7 @@
 | `bookshop_run.csv` | Track *Test runs*: check_id, status, seconds |
 | `book_answers.jsonl` | Track *Model answers*: question, answer, expected (one JSON object per line) |
 | `bookshop_attacks.jsonl` | Track *Attack logs*: id, language (`en` English, `cy` Welsh), payload, got_through |
-| `demo/` | The files used in the chapter's demo, if you want to follow along |
+| `demo/` | Extra practice files (the same data the chapter's examples use) |
 
 Put your script in this folder so the file names work as they are. In Colab, upload the files first (the folder icon on the left).
 

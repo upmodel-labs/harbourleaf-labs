@@ -9,8 +9,8 @@
 
 ## Steps
 
-### 1. Set up and prove it (8 min)
-Use **VS Code**, **PyCharm** or **Google Colab** (if you installed Python during the demo, this takes 2 minutes). Run this and paste the line it prints:
+### 1. Set up and prove it (12 min)
+Use **VS Code**, **PyCharm** or **Google Colab**. Run this and paste the line it prints:
 
 | Where | Command |
 |---|---|
@@ -18,7 +18,7 @@ Use **VS Code**, **PyCharm** or **Google Colab** (if you installed Python during
 | macOS / Linux terminal | `python3 --version` |
 | Colab cell | `!python --version` |
 
-### 2. The summary (20 min)
+### 2. The summary (16 min)
 Create `bookshop_summary.py` (or a Colab cell).
 - Store the numbers in variables: **120** checks, **9** failed, **3** skipped.
 - Let Python work out how many checks were **executed** and how many **passed**. Don't work them out by hand.
