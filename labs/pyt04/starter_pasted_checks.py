@@ -14,7 +14,7 @@ for book in books:
     if book["stock"] < 0:
         print(book["id"], "negative stock")
 
-# copy 2: the same checks, pasted into the reservations report
+# copy 2: pasted into the reservations report (look closely: is every check here?)
 for book in books:
     if book["in_stock"]:
         if book.get("price") is None:
@@ -22,7 +22,7 @@ for book in books:
         if not (len(book["isbn"]) == 13 and book["isbn"].isdigit()):
             print(book["id"], "bad ISBN (in stock)")
 
-# copy 3: pasted again for the children's shelf, and one check was left out
+# copy 3: pasted again for the children's shelf, and two checks were left out
 for book in books:
     if book["category"] == "children":
         if book.get("price") is None:

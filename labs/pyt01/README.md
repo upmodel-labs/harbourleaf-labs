@@ -5,12 +5,12 @@
 
 > **The bookshop** is the practice online bookshop that Priya's Tasks use. It is separate from Harbourleaf, the store in the videos, and all of its data is fictional.
 
-> "The practice bookshop's nightly checks have finished: 120 checks, 9 failed, 3 skipped. Nobody should count that by hand again. Write the script that prints the summary, and tell me which pass rate I should report."
+> "The practice bookshop's nightly checks have finished: 120 checks, 9 failed, 3 skipped (a skipped check did not run, so it neither passed nor failed). Nobody should count that by hand again. Write the script that prints the summary, and tell me which pass rate I should report."
 
 ## Steps
 
 ### 1. Set up and prove it (8 min)
-Use **VS Code**, **PyCharm** or **Google Colab**. Run this and paste the line it prints:
+Use **VS Code**, **PyCharm** or **Google Colab** (if you installed Python during the demo, this takes 2 minutes). Run this and paste the line it prints:
 
 | Where | Command |
 |---|---|

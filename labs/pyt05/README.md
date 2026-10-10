@@ -21,7 +21,7 @@ The gate: the **average score must be at least 4.0**.
 
 ## Steps
 
-### 1. Read the crash (7 min)
+### 1. Read the crash (5 min)
 Run `bookshop_score.py`. Write down the error type, the message and the line of the script that raised it.
 
 ### 2. Handle each bad row (15 min)
@@ -34,11 +34,11 @@ The average still looks wrong.
 3. Add `total` and `score` to **WATCH**. Step with **F10**.
 4. When you see the bug, take a screenshot of the WATCH panel. Then fix it.
 
-### 4. Your track (8 min)
+### 4. Your track (10 min)
 
 | Track | Task |
 |---|---|
-| Test runs | Work out the pass rate for `empty_run.csv`. It has no checks, so make the script say so instead of crashing. |
+| Test runs | Write a short script that reads `empty_run.csv` and works out the pass rate (rows with status `pass` out of all rows). The file has no checks, so make the script say so instead of crashing. |
 | Model answers | Make the report say "scored X of Y" and list every row that couldn't be scored, with its reason. |
 | Attack logs | Print each payload in `bookshop_attacks_v2.jsonl` in lower case. One has no payload: record it by id instead of crashing. |
 
@@ -46,6 +46,6 @@ The average still looks wrong.
 Write 4 lines on the bug from step 3: what's wrong, where, the effect on the result (old vs new average, against the gate of 4.0), and the fix.
 
 ## Hints
-- Read a traceback from the **bottom**: the last line is what went wrong, the line above is where.
+- Read a traceback from the **bottom**: the last line is what went wrong. Above it, the last `File` line that names **your** script is where. Lines in Python's own files (like `json/decoder.py`) are not your bug.
 - A `JSONDecodeError`'s "line … column …" counts inside the text you gave `json.loads`, not your file. Keep your own line counter.
 - Put the `try` around **one row**, not the whole loop, so one bad row can't stop the rest.

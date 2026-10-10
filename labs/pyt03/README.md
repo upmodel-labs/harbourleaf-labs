@@ -22,19 +22,22 @@ Put your script in this folder so the file names work as they are. In Colab, upl
 
 ## Steps
 
-### 1. Load and count (12 min)
-Load `bookshop_catalogue_v1.json`. Print how many rows it has and how many books are in each category (use a dictionary).
+### 1. Get the files (5 min)
+On the repo's main page, choose **Code → Download ZIP**, then unzip it. Open the `labs/pyt03` folder in VS Code, or upload its files to Colab.
 
-### 2. Listed twice? (10 min)
+### 2. Load and count (9 min)
+Load `bookshop_catalogue_v1.json`. Print how many rows it has and how many rows are in each category (use a dictionary).
+
+### 3. Listed twice? (10 min)
 Find any `id` that appears more than once. Print the duplicates and the number of unique ids.
 
-### 3. Same data, as CSV (12 min)
-Read `bookshop_catalogue_v1.csv` with `csv.DictReader`. For each field of the first row, print its type from the JSON file and from the CSV file. Which values would now give a wrong answer in an `if` or a sort?
+### 4. Same data, as CSV (12 min)
+For the first row, print each field's type in the JSON file and in the CSV file (read the CSV with `csv.DictReader`). Then say which values would give a wrong answer in an `if` or a sort.
 
-### 4. Write the summary (10 min)
-Write `summary.json` with the number of rows, the unique ids, the count per category and the duplicates (`json.dump` with `indent=2`).
+### 5. Write the summary (10 min)
+Write `summary.json` with the number of rows, the number of unique ids, the count per category and the duplicates (`json.dump` with `indent=2`).
 
-### 5. Your track (10 min)
+### 6. Your track (10 min)
 
 | Track | Task |
 |---|---|
@@ -42,7 +45,7 @@ Write `summary.json` with the number of rows, the unique ids, the count per cate
 | Model answers | In `book_answers.jsonl`, count exact matches, then matches after `strip()` and `lower()`. List what is still wrong. |
 | Attack logs | In `bookshop_attacks.jsonl`, count attacks and successes per language, and list the ids that got through. |
 
-### 6. Paste your evidence (6 min)
+### 7. Paste your evidence (4 min)
 Paste your code, its output and `summary.json` into the Task panel in UpModel.
 
 ## Hints
