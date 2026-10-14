@@ -1,0 +1,19 @@
+{
+  "name": "SQL & Database Testing (PostgreSQL)",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": { "version": "3.12" }
+  },
+  "containerEnv": {
+    "PGHOST": "db",
+    "PGUSER": "postgres",
+    "PGPASSWORD": "postgres",
+    "PGDATABASE": "labs"
+  },
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y postgresql-client",
+  "customizations": {
+    "vscode": { "extensions": ["ms-python.python"] }
+  }
+}
