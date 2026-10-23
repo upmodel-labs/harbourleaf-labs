@@ -1,0 +1,121 @@
+id,slice,text,label,label_date,set_version
+m001,6 or more,"You have 8 paperbacks. North of Nowhere and The Last Ferry are free and you save $16.98. Offer ends 30 November, 11:59 pm. Offer code 789.",right,2026-10-13,v1
+m002,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Hollow Pines, is free. Offer ends 30 November, 11:59 pm. Offer code 490.",right,2026-10-08,v1
+m003,exactly 3 paperbacks,"You have 3 paperbacks. The Tin Lighthouse is free and you save $8.99. Offer ends 30 November, 11:59 pm. Offer code 533.",right,2026-10-08,v1
+m004,exactly 3 paperbacks,"You have 3 paperbacks. The Cartographer's Dog is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 828.",right,2026-10-14,v1
+m005,exactly 3 paperbacks,"You have 3 paperbacks. North of Nowhere is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 161.",right,2026-10-21,v1
+m006,exactly 3 paperbacks,"You have 3 paperbacks. The Garden Ledger is free and you save $9.99. Offer ends 30 November, 8:00 pm. Offer code 653.",wrong,2026-10-17,v1
+m007,exactly 3 paperbacks,"You have 3 paperbacks. Low Tide Letters is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 461.",right,2026-10-18,v1
+m008,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Understudy, is free. Offer ends 30 November, 8:00 pm. Offer code 937.",right,2026-10-15,v1
+m009,6 or more,"You have 7 paperbacks. Paper Kingdoms and Blue Hour are free and you save $18.98. Offer ends 30 November, 8:00 pm. Offer code 433.",right,2026-10-21,v1
+m010,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Clockmaker's Niece, is free. Offer ends 30 November, 8:00 pm. Offer code 501.",right,2026-10-18,v1
+m011,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Winter Orchard, is free. Offer ends 30 November, 8:00 pm. Offer code 949.",wrong,2026-10-17,v1
+m012,6 or more,"You have 6 paperbacks. Blue Hour and The Weaver's Debt are free and you save $17.98. Offer ends 30 November, 8:00 pm. Offer code 887.",right,2026-10-17,v1
+m013,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Winter Orchard, is free. Offer ends 30 November, 8:00 pm. Offer code 179.",right,2026-10-18,v1
+m014,exactly 3 paperbacks,"You have 3 paperbacks. Orchard Street is free and you save $8.99. Offer ends 30 November, 8:00 pm. Offer code 634.",right,2026-10-17,v1
+m015,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, A Slow Hundred Miles, is free. Offer ends 30 November, 8:00 pm. Offer code 695.",wrong,2026-10-18,v1
+m016,exactly 3 paperbacks,"You have 3 paperbacks. A Map of Small Hours is free and you save $10.99. Offer ends 30 November, 11:59 pm. Offer code 253.",right,2026-10-10,v1
+m017,exactly 3 paperbacks,"You have 3 paperbacks. The Lantern Year is free and you save $7.99. Offer ends 30 November, 11:59 pm. Offer code 437.",wrong,2026-10-08,v1
+m018,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Cartographer's Dog, is free. Offer ends 30 November, 8:00 pm. Offer code 579.",right,2026-10-15,v1
+m019,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Ash and Honey, is free. Offer ends 30 November, 11:59 pm. Offer code 635.",wrong,2026-10-11,v1
+m020,6 or more,"You have 6 paperbacks. The Understudy and Moth and Lamp are free and you save $16.98. Offer ends 30 November, 8:00 pm. Offer code 740.",right,2026-10-14,v1
+m021,exactly 3 paperbacks,"You have 3 paperbacks. Winter Orchard is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 977.",right,2026-10-15,v1
+m022,6 or more,"You have 8 paperbacks. Orchard Street and The Lantern Year are free and you save $15.98. Offer ends 30 November, 8:00 pm. Offer code 183.",right,2026-10-20,v1
+m023,exactly 3 paperbacks,"You have 3 paperbacks. A Slow Hundred Miles is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 104.",right,2026-10-16,v1
+m024,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Hollow Pines, is free. Offer ends 30 November, 8:00 pm. Offer code 636.",right,2026-10-17,v1
+m025,exactly 3 paperbacks,"You have 3 paperbacks. The Lantern Year is free and you save $8.99. Offer ends 30 November, 8:00 pm. Offer code 142.",right,2026-10-21,v1
+m026,mixed formats,"You have 3 paperbacks and 1 hardback. The hardback does not count. The Copper Bell is free and you save $9.99. Offer ends 30 November, 8:00 pm. Offer code 405.",right,2026-10-20,v1
+m027,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Winter Orchard, is free. Offer ends 30 November, 8:00 pm. Offer code 949.",wrong,2026-10-15,v1
+m028,6 or more,"You have 7 paperbacks. Quiet Harbour and Cold Spring Rules are free and you save $17.98. Offer ends 30 November, 8:00 pm. Offer code 756.",right,2026-10-17,v1
+m029,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Borrowed Light, is free. Offer ends 30 November, 8:00 pm. Offer code 764.",right,2026-10-19,v1
+m030,mixed formats,"You have 3 paperbacks and 1 hardback. The hardback does not count. The Salt Road is free and you save $8.99. Offer ends 30 November, 8:00 pm. Offer code 320.",right,2026-10-21,v1
+m031,exactly 3 paperbacks,"You have 3 paperbacks. Orchard Street is free and you save $11.99. Offer ends 30 November, 8:00 pm. Offer code 672.",right,2026-10-21,v1
+m032,exactly 3 paperbacks,"You have 3 paperbacks. The Lantern Year is free and you save $8.99. Offer ends 30 November, 8:00 pm. Offer code 142.",right,2026-10-14,v1
+m033,exactly 3 paperbacks,"You have 3 paperbacks. The Lantern Year is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 950.",right,2026-10-17,v1
+m034,mixed formats,"You have 3 paperbacks and 1 hardback. The hardback does not count. Moth and Lamp is free and you save $8.99. Offer ends 30 November, 8:00 pm. Offer code 542.",right,2026-10-19,v1
+m035,6 or more,"You have 6 paperbacks. A Slow Hundred Miles and Glass Country are free and you save $21.98. Offer ends 30 November, 8:00 pm. Offer code 356.",right,2026-10-17,v1
+m036,6 or more,"You have 8 paperbacks. Songs for the Dry Season and The Weaver's Debt are free and you save $15.98. Offer ends 30 November, 11:59 pm. Offer code 577.",wrong,2026-10-12,v1
+m037,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Borrowed Light, is free. Offer ends 30 November, 8:00 pm. Offer code 687.",wrong,2026-10-16,v1
+m038,exactly 3 paperbacks,"You have 3 paperbacks. Winter Orchard is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 806.",right,2026-10-15,v1
+m039,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Borrowed Light, is free. Offer ends 30 November, 11:59 pm. Offer code 822.",right,2026-10-11,v1
+m040,6 or more,"You have 7 paperbacks. The Garden Ledger and Songs for the Dry Season are free and you save $16.98. Offer ends 30 November, 8:00 pm. Offer code 942.",wrong,2026-10-15,v1
+m041,6 or more,"You have 6 paperbacks. The Night Pharmacy and Ash and Honey are free and you save $16.98. Offer ends 30 November, 8:00 pm. Offer code 339.",right,2026-10-15,v1
+m042,6 or more,"You have 7 paperbacks. The Garden Ledger and The Understudy are free and you save $18.98. Offer ends 30 November, 8:00 pm. Offer code 707.",wrong,2026-10-15,v1
+m043,exactly 3 paperbacks,"You have 3 paperbacks. Cold Spring Rules is free and you save $8.99. Offer ends 30 November, 8:00 pm. Offer code 276.",right,2026-10-17,v1
+m044,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Orchard Street, is free. Offer ends 30 November, 8:00 pm. Offer code 917.",right,2026-10-17,v1
+m045,exactly 3 paperbacks,"You have 3 paperbacks. The Lantern Year is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 856.",wrong,2026-10-15,v1
+m046,mixed formats,"You have 3 paperbacks and 1 hardback. The hardback does not count. The Weaver's Debt is free and you save $7.99. Offer ends 30 November, 11:59 pm. Offer code 599.",right,2026-10-11,v1
+m047,6 or more,"You have 6 paperbacks. Field Notes from Mars and Cold Spring Rules are free and you save $15.98. Offer ends 30 November, 11:59 pm. Offer code 185.",right,2026-10-09,v1
+m048,exactly 3 paperbacks,"You have 3 paperbacks. Blue Hour is free and you save $8.99. Offer ends 30 November, 8:00 pm. Offer code 959.",right,2026-10-18,v1
+m049,exactly 3 paperbacks,"You have 3 paperbacks. Cold Spring Rules is free and you save $8.99. Offer ends 30 November, 8:00 pm. Offer code 542.",right,2026-10-15,v1
+m050,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Lantern Year, is free. Offer ends 30 November, 8:00 pm. Offer code 471.",right,2026-10-14,v1
+m051,exactly 3 paperbacks,"You have 3 paperbacks. The Weaver's Debt is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 509.",wrong,2026-10-15,v1
+m052,exactly 3 paperbacks,"You have 3 paperbacks. Blue Hour is free and you save $8.99. Offer ends 30 November, 8:00 pm. Offer code 959.",right,2026-10-21,v1
+m053,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Salt Road, is free. Offer ends 30 November, 11:59 pm. Offer code 562.",right,2026-10-11,v1
+m054,exactly 3 paperbacks,"You have 3 paperbacks. Low Tide Letters is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 146.",right,2026-10-17,v1
+m055,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Roads Not Taken Twice, is free. Offer ends 30 November, 11:59 pm. Offer code 191.",right,2026-10-12,v1
+m056,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Tin Lighthouse, is free. Offer ends 30 November, 8:00 pm. Offer code 208.",right,2026-10-19,v1
+m057,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Clockmaker's Niece, is free. Offer ends 30 November, 8:00 pm. Offer code 162.",right,2026-10-16,v1
+m058,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Lantern Year, is free. Offer ends 30 November, 8:00 pm. Offer code 953.",right,2026-10-21,v1
+m059,exactly 3 paperbacks,"You have 3 paperbacks. Glass Country is free and you save $9.99. Offer ends 30 November, 11:59 pm. Offer code 813.",right,2026-10-08,v1
+m060,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Winter Orchard, is free. Offer ends 30 November, 8:00 pm. Offer code 428.",right,2026-10-14,v1
+m061,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Winter Orchard, is free. Offer ends 30 November, 8:00 pm. Offer code 854.",right,2026-10-15,v1
+m062,6 or more,"You have 7 paperbacks. The Weaver's Debt and Roads Not Taken Twice are free and you save $16.98. Offer ends 30 November, 8:00 pm. Offer code 929.",right,2026-10-19,v1
+m063,6 or more,"You have 8 paperbacks. Cold Spring Rules and Paper Kingdoms are free and you save $15.98. Offer ends 30 November, 8:00 pm. Offer code 765.",right,2026-10-14,v1
+m064,exactly 3 paperbacks,"You have 3 paperbacks. The Cartographer's Dog is free and you save $8.99. Offer ends 30 November, 8:00 pm. Offer code 559.",right,2026-10-16,v1
+m065,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Lantern Year, is free. Offer ends 30 November, 8:00 pm. Offer code 268.",right,2026-10-20,v1
+m066,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Weaver's Debt, is free. Offer ends 30 November, 8:00 pm. Offer code 342.",wrong,2026-10-16,v1
+m067,6 or more,"You have 6 paperbacks. The Understudy and The Weaver's Debt are free and you save $19.98. Offer ends 30 November, 8:00 pm. Offer code 117.",right,2026-10-18,v1
+m068,6 or more,"You have 6 paperbacks. Blue Hour and The Weaver's Debt are free and you save $17.98. Offer ends 30 November, 8:00 pm. Offer code 887.",right,2026-10-20,v1
+m069,6 or more,"You have 6 paperbacks. Roads Not Taken Twice and Cold Spring Rules are free and you save $17.98. Offer ends 30 November, 8:00 pm. Offer code 321.",right,2026-10-21,v1
+m070,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Roads Not Taken Twice, is free. Offer ends 30 November, 11:59 pm. Offer code 969.",right,2026-10-10,v1
+m071,exactly 3 paperbacks,"You have 3 paperbacks. The Night Pharmacy is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 483.",right,2026-10-17,v1
+m072,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Ash and Honey, is free. Offer ends 30 November, 11:59 pm. Offer code 660.",right,2026-10-12,v1
+m073,6 or more,"You have 7 paperbacks. Seven Rivers and Paper Kingdoms are free and you save $15.98. Offer ends 30 November, 8:00 pm. Offer code 395.",wrong,2026-10-16,v1
+m074,exactly 3 paperbacks,"You have 3 paperbacks. The Garden Ledger is free and you save $8.99. Offer ends 30 November, 11:59 pm. Offer code 959.",right,2026-10-11,v1
+m075,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Low Tide Letters, is free. Offer ends 30 November, 11:59 pm. Offer code 420.",right,2026-10-11,v1
+m076,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Blue Hour, is free. Offer ends 30 November, 8:00 pm. Offer code 923.",right,2026-10-14,v1
+m077,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, A Map of Small Hours, is free. Offer ends 30 November, 8:00 pm. Offer code 733.",wrong,2026-10-17,v1
+m078,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Ash and Honey, is free. Offer ends 30 November, 8:00 pm. Offer code 745.",right,2026-10-19,v1
+m079,6 or more,"You have 8 paperbacks. The Understudy and The Cartographer's Dog are free and you save $15.98. Offer ends 30 November, 8:00 pm. Offer code 408.",right,2026-10-21,v1
+m080,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Understudy, is free. Offer ends 30 November, 8:00 pm. Offer code 386.",right,2026-10-19,v1
+m081,6 or more,"You have 8 paperbacks. Borrowed Light and The Lantern Year are free and you save $18.98. Offer ends 30 November, 8:00 pm. Offer code 588.",right,2026-10-17,v1
+m082,6 or more,"You have 7 paperbacks. Quiet Harbour and The Lantern Year are free and you save $15.98. Offer ends 30 November, 8:00 pm. Offer code 440.",right,2026-10-16,v1
+m083,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, A Map of Small Hours, is free. Offer ends 30 November, 8:00 pm. Offer code 770.",right,2026-10-16,v1
+m084,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Tin Lighthouse, is free. Offer ends 30 November, 8:00 pm. Offer code 939.",right,2026-10-14,v1
+m085,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Copper Bell, is free. Offer ends 30 November, 8:00 pm. Offer code 156.",wrong,2026-10-15,v1
+m086,6 or more,"You have 7 paperbacks. Ash and Honey and Borrowed Light are free and you save $19.98. Offer ends 30 November, 11:59 pm. Offer code 685.",right,2026-10-11,v1
+m087,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Tin Lighthouse, is free. Offer ends 30 November, 8:00 pm. Offer code 208.",right,2026-10-14,v1
+m088,exactly 3 paperbacks,"You have 3 paperbacks. The Lantern Year is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 567.",right,2026-10-20,v1
+m089,exactly 3 paperbacks,"You have 3 paperbacks. The Clockmaker's Niece is free and you save $9.99. Offer ends 30 November, 8:00 pm. Offer code 259.",right,2026-10-16,v1
+m090,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Tin Lighthouse, is free. Offer ends 30 November, 8:00 pm. Offer code 939.",right,2026-10-20,v1
+m091,mixed formats,"You have 3 paperbacks and 1 hardback. The hardback does not count. The Tin Lighthouse is free and you save $8.99. Offer ends 30 November, 8:00 pm. Offer code 822.",wrong,2026-10-15,v1
+m092,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Winter Orchard, is free. Offer ends 30 November, 8:00 pm. Offer code 230.",wrong,2026-10-16,v1
+m093,6 or more,"You have 7 paperbacks. Glass Country and Field Notes from Mars are free and you save $17.98. Offer ends 30 November, 8:00 pm. Offer code 308.",right,2026-10-15,v1
+m094,exactly 3 paperbacks,"You have 3 paperbacks. Borrowed Light is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 246.",right,2026-10-19,v1
+m095,6 or more,"You have 8 paperbacks. Cold Spring Rules and Moth and Lamp are free and you save $15.98. Offer ends 30 November, 8:00 pm. Offer code 870.",wrong,2026-10-15,v1
+m096,exactly 3 paperbacks,"You have 3 paperbacks. The Salt Road is free and you save $9.99. Offer ends 30 November, 8:00 pm. Offer code 192.",right,2026-10-18,v1
+m097,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Copper Bell, is free. Offer ends 30 November, 8:00 pm. Offer code 156.",wrong,2026-10-20,v1
+m098,exactly 3 paperbacks,"You have 3 paperbacks. The Understudy is free and you save $7.99. Offer ends 30 November, 11:59 pm. Offer code 688.",right,2026-10-13,v1
+m099,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Winter Orchard, is free. Offer ends 30 November, 8:00 pm. Offer code 428.",right,2026-10-14,v1
+m100,6 or more,"You have 8 paperbacks. Field Notes from Mars and The Last Ferry are free and you save $15.98. Offer ends 30 November, 11:59 pm. Offer code 490.",right,2026-10-10,v1
+m101,6 or more,"You have 7 paperbacks. The Garden Ledger and The Understudy are free and you save $18.98. Offer ends 30 November, 8:00 pm. Offer code 707.",wrong,2026-10-20,v1
+m102,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, Seven Rivers, is free. Offer ends 30 November, 8:00 pm. Offer code 196.",right,2026-10-14,v1
+m103,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Clockmaker's Niece, is free. Offer ends 30 November, 11:59 pm. Offer code 494.",right,2026-10-08,v1
+m104,mixed formats,"You have 3 paperbacks and 1 hardback. The hardback does not count. The Copper Bell is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 231.",right,2026-10-21,v1
+m105,exactly 3 paperbacks,"You have 3 paperbacks. Songs for the Dry Season is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 707.",wrong,2026-10-15,v1
+m106,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, A Slow Hundred Miles, is free. Offer ends 30 November, 8:00 pm. Offer code 252.",right,2026-10-16,v1
+m107,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Weaver's Debt, is free. Offer ends 30 November, 8:00 pm. Offer code 564.",right,2026-10-20,v1
+m108,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, A Map of Small Hours, is free. Offer ends 30 November, 8:00 pm. Offer code 566.",right,2026-10-17,v1
+m109,6 or more,"You have 6 paperbacks. Quiet Harbour and The Understudy are free and you save $17.98. Offer ends 30 November, 8:00 pm. Offer code 217.",right,2026-10-21,v1
+m110,6 or more,"You have 8 paperbacks. The Understudy and The Cartographer's Dog are free and you save $15.98. Offer ends 30 November, 8:00 pm. Offer code 408.",right,2026-10-16,v1
+m111,exactly 3 paperbacks,"You have 3 paperbacks. The Copper Bell is free and you save $7.99. Offer ends 30 November, 11:59 pm. Offer code 313.",right,2026-10-13,v1
+m112,exactly 3 paperbacks,"You have 3 paperbacks. The Lantern Year is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 567.",right,2026-10-17,v1
+m113,exactly 3 paperbacks,"You have 3 paperbacks. The Garden Ledger is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 318.",right,2026-10-19,v1
+m114,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, The Understudy, is free. Offer ends 30 November, 8:00 pm. Offer code 937.",right,2026-10-16,v1
+m115,one paperback short,"You have 2 paperbacks. Add 1 more and the cheapest, A Slow Hundred Miles, is free. Offer ends 30 November, 8:00 pm. Offer code 841.",wrong,2026-10-15,v1
+m116,exactly 3 paperbacks,"You have 3 paperbacks. The Clockmaker's Niece is free and you save $9.99. Offer ends 30 November, 8:00 pm. Offer code 259.",right,2026-10-15,v1
+m117,exactly 3 paperbacks,"You have 3 paperbacks. Orchard Street is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 507.",right,2026-10-19,v1
+m118,exactly 3 paperbacks,"You have 3 paperbacks. Ash and Honey is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 252.",wrong,2026-10-19,v1
+m119,exactly 3 paperbacks,"You have 3 paperbacks. Cold Spring Rules is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 976.",right,2026-10-17,v1
+m120,exactly 3 paperbacks,"You have 3 paperbacks. Cold Spring Rules is free and you save $7.99. Offer ends 30 November, 8:00 pm. Offer code 976.",right,2026-10-19,v1

@@ -1,0 +1,21 @@
+id,text,label_a,label_b
+f01,"fresh case 1: mirror, wall art",poor,poor
+f02,"fresh case 2: mirror, reading chair",poor,poor
+f03,"fresh case 3: wall art, floor plant",poor,poor
+f04,"fresh case 4: blanket, cushions",poor,poor
+f05,"fresh case 5: armchair, mirror",good,good
+f06,"fresh case 6: dresser, bedside lamp",poor,poor
+f07,"fresh case 7: mirror, curtains",poor,poor
+f08,"fresh case 8: coffee table, curtains",poor,poor
+f09,"fresh case 9: wardrobe, rug",good,good
+f10,"fresh case 10: two lamps, tv unit",good,good
+f11,"fresh case 11: wardrobe, curtains",poor,poor
+f12,"fresh case 12: bench, reading chair",poor,poor
+f13,"fresh case 13: bed, wardrobe",good,good
+f14,"fresh case 14: blanket, coffee table",good,good
+f15,"fresh case 15: rug, sofa",good,good
+f16,"fresh case 16: wardrobe, curtains",poor,poor
+f17,"fresh case 17: wardrobe, cushions",good,good
+f18,"fresh case 18: bed, side table",good,good
+f19,"fresh case 19: rug, side table",good,good
+f20,"fresh case 20: side table, cushions",good,good

@@ -1,0 +1,64 @@
+id,slice,text,label,label_date,set_version
+c001,text descriptions,a dark bedroom with one window,good,2026-10-19,d1
+c002,living-room photos,"photo lr-281: curtains, side table, two lamps",good,2026-10-20,d1
+c003,bedroom photos,"photo br-740: desk, rug, wall art",good,2026-10-12,d1
+c004,text descriptions,a studio with the bed near the kitchen,poor,2026-10-11,d1
+c005,living-room photos,"photo lr-321: bookshelf, coffee table, sofa",good,2026-10-19,d1
+c006,bedroom photos,"photo br-999: bedside lamp, bench, desk",good,2026-10-19,d1
+c007,bedroom photos,"photo br-813: bench, curtains, desk",good,2026-10-10,d1
+c008,bedroom photos,"photo br-441: dresser, reading chair, wall art",good,2026-10-19,d1
+c009,bedroom photos,"photo br-790: bed, bedside lamp, reading chair",poor,2026-10-11,d1
+c010,bedroom photos,"photo br-815: bench, blanket, desk",good,2026-10-17,d1
+c011,text descriptions,a nursery with a rocking chair,good,2026-10-18,d1
+c012,living-room photos,"photo lr-979: bookshelf, curtains, floor plant",poor,2026-10-15,d1
+c013,living-room photos,"photo lr-612: bookshelf, coffee table, rug",good,2026-10-10,d1
+c014,bedroom photos,"photo br-113: bed, blanket, curtains",poor,2026-10-15,d1
+c015,living-room photos,"photo lr-223: curtains, floor plant, rug",poor,2026-10-09,d1
+c016,bedroom photos,"photo br-150: bench, blanket, reading chair",good,2026-10-10,d1
+c017,bedroom photos,"photo br-928: bed, wall art, wardrobe",good,2026-10-19,d1
+c018,bedroom photos,"photo br-837: curtains, dresser, rug",good,2026-10-15,d1
+c019,living-room photos,"photo lr-701: cushions, rug, tv unit",good,2026-10-20,d1
+c020,living-room photos,"photo lr-633: rug, side table, two lamps",good,2026-10-11,d1
+c021,living-room photos,"photo lr-898: bookshelf, curtains, mirror",good,2026-10-20,d1
+c022,living-room photos,"photo lr-982: curtains, rug, side table",poor,2026-10-11,d1
+c023,bedroom photos,"photo br-207: mirror, rug, wall art",poor,2026-10-16,d1
+c024,bedroom photos,"photo br-423: bed, desk, reading chair",good,2026-10-10,d1
+c025,bedroom photos,"photo br-510: bench, mirror, wall art",good,2026-10-10,d1
+c026,living-room photos,"photo lr-705: bookshelf, curtains, side table",good,2026-10-12,d1
+c027,text descriptions,a small bright room with a sofa,good,2026-10-13,d1
+c028,living-room photos,"photo lr-373: bookshelf, coffee table, floor plant",good,2026-10-18,d1
+c029,text descriptions,a family room with a big rug,good,2026-10-13,d1
+c030,living-room photos,"photo lr-796: coffee table, mirror, side table",good,2026-10-11,d1
+c031,living-room photos,"photo lr-469: armchair, bookshelf, sofa",good,2026-10-21,d1
+c032,text descriptions,a reading corner under the stairs,good,2026-10-10,d1
+c033,living-room photos,"photo lr-952: armchair, floor plant, rug",good,2026-10-17,d1
+c034,text descriptions,a guest room with a folding bed,good,2026-10-20,d1
+c035,living-room photos,"photo lr-108: bookshelf, side table, sofa",good,2026-10-10,d1
+c036,text descriptions,a loft with sloped walls,good,2026-10-08,d1
+c037,bedroom photos,"photo br-271: bedside lamp, bench, desk",good,2026-10-19,d1
+c038,bedroom photos,"photo br-287: dresser, mirror, rug",good,2026-10-10,d1
+c039,living-room photos,"photo lr-426: cushions, rug, two lamps",good,2026-10-14,d1
+c040,living-room photos,"photo lr-816: coffee table, tv unit, two lamps",poor,2026-10-12,d1
+c041,living-room photos,"photo lr-148: curtains, cushions, rug",good,2026-10-11,d1
+c042,living-room photos,"photo lr-544: curtains, cushions, side table",good,2026-10-18,d1
+c043,living-room photos,"photo lr-326: floor plant, mirror, sofa",good,2026-10-11,d1
+c044,text descriptions,a long living room with two doors,good,2026-10-16,d1
+c045,bedroom photos,"photo br-640: dresser, rug, wardrobe",good,2026-10-12,d1
+c046,living-room photos,"photo lr-511: coffee table, floor plant, mirror",good,2026-10-12,d1
+c047,living-room photos,"photo lr-906: bookshelf, cushions, sofa",good,2026-10-19,d1
+c048,living-room photos,"photo lr-979: bookshelf, curtains, floor plant",poor,2026-10-11,d1
+c049,bedroom photos,"photo br-740: desk, rug, wall art",good,2026-10-16,d1
+c050,text descriptions,a narrow hall used as a desk corner,good,2026-10-19,d1
+c051,living-room photos,"photo lr-373: bookshelf, coffee table, floor plant",good,2026-10-16,d1
+c052,bedroom photos,"photo br-532: curtains, dresser, wall art",good,2026-10-19,d1
+c053,bedroom photos,"photo br-807: bench, blanket, wall art",poor,2026-10-10,d1
+c054,bedroom photos,"photo br-968: bedside lamp, curtains, wall art",good,2026-10-21,d1
+c055,living-room photos,"photo lr-492: armchair, curtains, rug",poor,2026-10-16,d1
+c056,bedroom photos,"photo br-618: curtains, dresser, rug",good,2026-10-09,d1
+c057,living-room photos,"photo lr-876: curtains, rug, tv unit",good,2026-10-13,d1
+c058,bedroom photos,"photo br-283: bench, blanket, rug",good,2026-10-17,d1
+c059,living-room photos,"photo lr-161: cushions, floor plant, mirror",good,2026-10-12,d1
+c060,text descriptions,a sunny room with plants,good,2026-10-19,d1
+c061,living-room photos,"photo lr-740: armchair, coffee table, sofa",good,2026-10-14,d1
+c062,living-room photos,"photo lr-977: floor plant, rug, side table",good,2026-10-11,d1
+c063,bedroom photos,"photo br-224: bed, dresser, mirror",poor,2026-10-13,d1
