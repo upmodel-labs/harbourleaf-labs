@@ -1,0 +1,19 @@
+id,title,component,symptom,severity,status,found_in,reopened,opened
+BS-101,Saving shown for 2 paperbacks instead of 3,cart,wrong saving,high,closed,test,0,2026-10-06
+BS-102,Checkout keeps the saving after a paperback is removed from a 3-book cart,checkout,wrong saving,high,closed,test,1,2026-10-07
+BS-103,Checkout total keeps the free book when the cart drops to 2 paperbacks,checkout,wrong saving,high,closed,test,0,2026-10-08
+BS-104,Saving given when one of the 3 books is a hardback,cart,wrong saving,high,new,test,0,2026-12-01
+BS-105,Offer rules make the second-cheapest book free in a 4-paperback cart,offer rules,wrong saving,medium,fixed,test,0,2026-10-13
+BS-106,Bundle & Save badge is hard to read on the dark theme,cart,display or text,low,new,test,0,2026-12-01
+BS-107,Cart message still says the offer ends at 23:59 after the end-time change,cart,stale information,medium,closed,test,1,2026-10-15
+BS-108,Order history shows 'ends 23:59' on orders placed after the end-time change,account,stale information,low,open,live,0,2026-10-20
+BS-109,Receipt email labels the saving 'Discount' instead of 'Bundle & Save',checkout,display or text,low,new,live,0,2026-12-01
+BS-110,Book page still shows the Bundle & Save badge after 20:00 on 30 November,catalogue,stale information,medium,open,live,0,2026-12-01
+BS-111,Search with the Bundle & Save filter takes 6 seconds,catalogue,slow,low,open,test,0,2026-10-22
+BS-112,"The saving line is an image with no text, so screen readers skip it",cart,display or text,medium,new,review,0,2026-12-01
+BS-113,Checkout gives a free book for 1 hardback and 2 paperbacks,checkout,wrong saving,high,new,test,0,2026-12-01
+BS-114,Offer rules return an error when an empty cart refreshes the offer page,offer rules,crash,medium,fixed,test,0,2026-10-14
+BS-115,Wishlist page does not show the Bundle & Save saving,wishlist,display or text,low,new,live,0,2026-12-01
+BS-116,Cart takes 5 seconds to show the saving with 20 or more books,cart,slow,low,open,test,0,2026-10-27
+BS-117,Offer rules test data still uses the 23:59:59 end time,offer rules,stale information,low,closed,review,0,2026-10-16
+BS-118,Cart shows a zero saving line when no book is free,cart,display or text,low,open,test,0,2026-11-03

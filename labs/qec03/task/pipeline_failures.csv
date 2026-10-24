@@ -1,0 +1,22 @@
+run,date,stage,error
+run-601,2026-11-17,cart tests,cache warm-up timed out
+run-602,2026-11-17,checkout tests,test data missing
+run-603,2026-11-18,deploy,runner disk full
+run-604,2026-11-19,cart tests,cache warm-up timed out
+run-605,2026-11-19,offer rules tests,assertion failed
+run-606,2026-11-20,checkout tests,test data missing
+run-607,2026-11-21,cart tests,cache warm-up timed out
+run-608,2026-11-21,deploy,runner disk full
+run-609,2026-11-22,checkout tests,test data missing
+run-610,2026-11-23,cart tests,cache warm-up timed out
+run-611,2026-11-23,offer rules tests,assertion failed
+run-612,2026-11-24,cart tests,cache warm-up timed out
+run-613,2026-11-25,checkout tests,test data missing
+run-614,2026-11-25,deploy,runner disk full
+run-615,2026-11-26,cart tests,cache warm-up timed out
+run-616,2026-11-27,checkout tests,test data missing
+run-617,2026-11-27,cart tests,cache warm-up timed out
+run-618,2026-11-28,deploy,runner disk full
+run-619,2026-11-29,cart tests,cache warm-up timed out
+run-620,2026-11-29,checkout tests,test data missing
+run-621,2026-11-30,cart tests,cache warm-up timed out

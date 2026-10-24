@@ -1,0 +1,15 @@
+night,date,prompt,model,set,score_all,score_mixed_formats,note
+1,2026-11-01,p2,practice-model,v2,0.95,0.97,
+2,2026-11-02,p2,practice-model,v2,0.95,0.97,
+3,2026-11-03,p2,practice-model,v2,0.95,0.97,
+4,2026-11-04,p2,practice-model,v2,0.95,0.97,
+5,2026-11-05,p2,practice-model,v2,0.95,0.97,
+6,2026-11-06,p2,practice-model,v2,0.95,0.97,
+7,2026-11-07,p2,practice-model,v2,0.95,0.97,
+8,2026-11-08,p2,practice-model,v2,0.95,0.97,
+9,2026-11-09,p2,practice-model,v2,0.95,0.97,
+10,2026-11-10,p3,practice-model,v2,0.93,0.52,prompt p3 replaces p2 before this run
+11,2026-11-11,p3,practice-model,v2,0.93,0.51,
+12,2026-11-12,p3,practice-model,v2,0.93,0.52,
+13,2026-11-13,p3,practice-model,v2,0.93,0.51,
+14,2026-11-14,p3,practice-model,v2,0.93,0.52,
