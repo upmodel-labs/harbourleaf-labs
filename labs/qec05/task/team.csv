@@ -1,0 +1,19 @@
+resource,kind,day,free_hours,note
+You (the lead),person,Monday,2,After the 1 hour you keep for the new tester (first task and check-in)
+You (the lead),person,Tuesday,1,Status calls
+You (the lead),person,Wednesday,2,
+Harry,person,Monday,1,Room Match launch checks
+Harry,person,Tuesday,3,
+Harry,person,Wednesday,2,
+Meera,person,Monday,1,Room Match launch checks
+Meera,person,Tuesday,3,
+Meera,person,Wednesday,0,Room Match launch work all day
+Brian,person,Monday,0,Travelling; starts on Tuesday
+Brian,person,Tuesday,2,
+Brian,person,Wednesday,2,
+New tester,person,Monday,1,First day: induction
+New tester,person,Tuesday,2,Joining Brian's probe session uses 2 of these hours if it runs that day
+New tester,person,Wednesday,4,Joining Brian's probe session uses 2 of these hours if it runs that day
+QA environment,environment,Monday,10,One person at a time
+QA environment,environment,Tuesday,6,08:00 to 14:00 only; the developer deploys after 14:00
+QA environment,environment,Wednesday,10,One person at a time

@@ -1,0 +1,9 @@
+id,item,result,evidence
+W01,Re-test: the saving stops at the 20:00 end time,NOT READY,"5 checks with the QA clock set after the end time (20:01, 20:05, 20:30, 21:00, 22:00): the saving was still given in 3 of the 5 (20:01, 20:05, 20:30) and correctly stopped in 2 (21:00, 22:00)"
+W02,Smoke set on the QA build,passed,5 of 5 checks passed on Monday's build
+W03,Regression kit: pull-request tier,1 failure,"Run P-0412: 41 run, 40 passed, 1 failed (test_saving_stops_at_end_time, the same fault as W01)"
+W04,Cart-message scored set run,passed,Score inside the tolerance band of the baseline
+W05,Probe session on book descriptions,open,Not run yet
+W06,Bundle with a voucher code,open,Not run yet
+W07,Offer wording on the bundle page against the offer note,passed,Every phrase matches the offer note
+W08,End-time text in the page footer on all product pages,open,Not run yet

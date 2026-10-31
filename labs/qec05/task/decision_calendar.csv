@@ -1,0 +1,8 @@
+day,from,to,can_decide,note
+Monday,09:00,09:30,yes,Short call: quick questions and approvals
+Monday,09:30,18:00,no,Workshop day: messages only
+Tuesday,09:00,18:00,no,Offsite: no calls and no decisions; messages are read in the evening
+Wednesday,09:00,13:00,no,Customer meetings
+Wednesday,13:00,15:00,yes,Decision slot: can decide to open or not and can accept any risk
+Wednesday,15:00,18:00,no,Travelling
+Thursday,08:00,09:00,yes,Last call before the second run opens at 09:00 store time

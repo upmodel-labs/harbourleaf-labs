@@ -1,0 +1,11 @@
+id,saving_in_basket,cart_message,reference_label,reference_reason,new_tester_label
+1,4.50,You saved 4.50 with Bundle & Save. The offer ends at 20:00.,right,The saving and the end time both match,right
+2,6.00,You saved 6.00 with Bundle & Save. The offer ends at 20:00.,right,The saving and the end time both match,right
+3,3.00,You saved 30.00 with Bundle & Save. The offer ends at 20:00.,wrong,The amount is ten times the saving in the basket,right
+4,4.50,You saved 4.50 with Bundle & Save. The offer lasts all month.,wrong,The end time is not 20:00,wrong
+5,0.00,Bundle & Save has ended. No saving applies to this basket.,right,No saving applies and the message says so,wrong
+6,7.50,You saved 7.50 with Bundle & Save. The offer ends at 20:00.,right,The saving and the end time both match,right
+7,4.50,You saved 4.50 with Bundle & Save. The offer ends at 22:00.,wrong,The end time is 22:00 not 20:00,right
+8,3.50,You saved 3.50 with Bundle & Save. The offer ends at 20:00.,right,The saving and the end time both match,wrong
+9,9.00,You saved 9.00 with Bundle & Save. The offer ends at 20:00. Buy now or lose it for ever.,wrong,It adds a warning the offer does not make,wrong
+10,4.50,You saved 4.50 with Bundle & Save. The offer ends at 20:00.,right,The saving and the end time both match,right

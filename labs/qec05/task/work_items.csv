@@ -1,0 +1,9 @@
+id,item,risk_order,hours,needs_environment,who_can_do,note
+W01,Re-test: the saving stops at the 20:00 end time,1,2,yes,experienced tester,The fix went into the QA (quality assurance) environment last Friday. Set the QA clock past the end time and check the basket.
+W02,Smoke set on the QA build,2,1,yes,experienced tester,Five quick checks: the shop opens; the basket loads; the saving shows; checkout works; the cart message appears.
+W03,Regression kit: pull-request tier,3,3,yes,Harry (pipeline),The pipeline runs it and a person reads the result.
+W04,Cart-message scored set run,4,3,yes,Meera (model answers),Run the set and compare the score with the baseline and its tolerance.
+W05,Probe session on book descriptions,5,2,yes,Brian (attack logs),Try to change the cart message through the book description of a test book. The new tester joins this session and learns: it also uses 2 of the new tester's free hours that day.
+W06,Bundle with a voucher code,6,2,yes,experienced tester,Add a bundle and a voucher code and check the total.
+W07,Offer wording on the bundle page against the offer note,7,1,no,anyone,Compare each phrase with the note. No environment needed.
+W08,End-time text in the page footer on all product pages,8,3,no,anyone,Read the footer on every product page. No environment needed.

@@ -1,0 +1,15 @@
+run_id,tier,started,stage,status,detail
+N-0088,nightly,Monday 02:00,build,passed,Built in 3 minutes
+N-0088,nightly,Monday 02:00,unit,passed,212 passed
+N-0088,nightly,Monday 02:00,regression,passed,40 of 40 passed
+N-0088,nightly,Monday 02:00,scored set,passed,Score inside the tolerance band
+P-0411,pull request,Monday 17:45,build,passed,Built in 3 minutes
+P-0411,pull request,Monday 17:45,unit,passed,212 passed
+P-0411,pull request,Monday 17:45,smoke,passed,5 of 5 passed
+P-0411,pull request,Monday 17:45,regression,passed,40 of 40 passed
+P-0411,pull request,Monday 17:45,scored set,passed,Score inside the tolerance band
+P-0412,pull request,Tuesday 10:20,build,passed,Built in 3 minutes
+P-0412,pull request,Tuesday 10:20,unit,passed,212 passed
+P-0412,pull request,Tuesday 10:20,smoke,passed,5 of 5 passed
+P-0412,pull request,Tuesday 10:20,regression,failed,"41 run, 40 passed, 1 failed: test_saving_stops_at_end_time: expected saving 0.00 at 20:05, got 4.50"
+P-0412,pull request,Tuesday 10:20,scored set,skipped,Not run because an earlier stage failed
