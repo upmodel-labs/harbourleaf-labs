@@ -1,0 +1,40 @@
+/* The practice bookshop's web shop: the one stylesheet for every page and both versions. */
+:root {
+  --ink: #1f2933;
+  --muted: #5f6b7a;
+  --line: #d9dee5;
+  --paper: #ffffff;
+  --page: #f5f6f8;
+  --brand: #2f5d50;
+  --brand-ink: #ffffff;
+  --space: 16px;
+  --radius: 6px;
+}
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, sans-serif; color: var(--ink); background: var(--page); line-height: 1.5; }
+a { color: var(--brand); }
+.site-header { display: flex; align-items: center; gap: var(--space); padding: var(--space); background: var(--brand); color: var(--brand-ink); flex-wrap: wrap; }
+.site-header a { color: var(--brand-ink); }
+.site-name { font-weight: 700; margin-right: auto; }
+.site-nav { display: flex; gap: var(--space); }
+.practice-banner { margin: 0; padding: 4px var(--space); background: #fff4d6; color: var(--ink); font-size: 14px; }
+.content { max-width: 760px; margin: 0 auto; padding: var(--space); }
+.card { background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); padding: var(--space); margin-bottom: var(--space); }
+.field { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.field label { font-weight: 600; }
+input[type="text"], input[type="search"], input[type="number"] { padding: 8px; border: 1px solid var(--line); border-radius: var(--radius); font: inherit; }
+input[type="number"] { width: 80px; }
+.button { padding: 8px 14px; border: 0; border-radius: var(--radius); background: var(--brand); color: var(--brand-ink); font: inherit; cursor: pointer; }
+.button:disabled { opacity: 0.5; cursor: not-allowed; }
+.button-quiet { background: transparent; color: var(--brand); border: 1px solid var(--brand); }
+.status { color: var(--muted); min-height: 1.5em; margin: 8px 0; }
+.results { list-style: none; margin: 0; padding: 0; }
+.result { display: flex; gap: var(--space); padding: 8px 0; border-bottom: 1px solid var(--line); }
+.result-link { font-weight: 600; flex: 1; }
+.result-author, .result-price, .muted { color: var(--muted); }
+.table { width: 100%; border-collapse: collapse; }
+.table th, .table td { text-align: left; padding: 8px; border-bottom: 1px solid var(--line); }
+.total { font-weight: 700; font-size: 18px; }
+.reply { padding: 8px; border-left: 3px solid var(--brand); background: var(--page); min-height: 2.5em; }
+.header-search { margin-left: auto; }
+.header-search label { color: var(--brand-ink); }

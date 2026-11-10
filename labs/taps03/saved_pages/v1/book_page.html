@@ -1,0 +1,33 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Book · Practice Bookshop</title>
+  <link rel="stylesheet" href="/static/shop.css">
+</head>
+<body data-page="book" data-basket-word="basket">
+  <header class="site-header">
+    <a class="site-name" href="/">Practice Bookshop</a>
+    
+    <nav class="site-nav" aria-label="Main">
+      <a href="/">Search</a>
+      <a href="/basket.html">Basket (<span id="basket-count" data-testid="basket-count">2</span>)</a>
+      <a href="/help.html">Order help</a>
+      <a href="/orders.html">Orders</a>
+    </nav>
+  </header>
+  <main class="content">
+    <section class="card">
+      <h1 id="book-title">Learning to Test</h1>
+      <p>by <span id="book-author">A. Rao</span> · <span id="book-price" data-testid="book-price">18.00</span></p>
+      <div class="field">
+        <label for="quantity">Quantity</label>
+        <input id="quantity" type="number" min="1" max="10" value="1" data-testid="quantity">
+        <button id="add-button" class="button" type="button" data-testid="add-to-basket">Add to basket</button>
+      </div>
+      <p id="add-status" class="status" role="status">Added to basket.</p>
+      <p><a href="/basket.html">Go to your basket</a></p>
+    </section>
+  </main>
+
+
+</body></html>

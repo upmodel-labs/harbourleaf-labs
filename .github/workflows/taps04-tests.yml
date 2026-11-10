@@ -1,0 +1,68 @@
+# Pipeline for labs/taps04 (HLF-P64). Supplied with two blanks for you to fill in (step 6).
+name: taps04 tests
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "labs/taps04/**"
+      - ".github/workflows/taps04-tests.yml"
+  pull_request:
+    branches: [main]
+    paths:
+      - "labs/taps04/**"
+      - ".github/workflows/taps04-tests.yml"
+
+env:
+  SHOP_SLOW: "1"   # starts the practice shop slower than in your Codespace, to stand for a slower build machine
+
+defaults:
+  run:
+    working-directory: labs/taps04
+
+jobs:
+  smoke:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Smoke tests
+        run: echo "Fill in the smoke command here (step 6)" && exit 1
+      - name: Keep the report and the traces
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: smoke-results
+          path: |
+            labs/taps04/report.xml
+            labs/taps04/test-results
+          if-no-files-found: ignore
+
+  full:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Full suite
+        run: echo "Fill in the full command here (step 6)" && exit 1
+      - name: Keep the report and the traces
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: full-results
+          path: |
+            labs/taps04/report.xml
+            labs/taps04/test-results
+          if-no-files-found: ignore

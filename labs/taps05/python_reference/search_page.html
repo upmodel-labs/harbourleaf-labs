@@ -1,0 +1,36 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Search · Practice Bookshop</title>
+  <link rel="stylesheet" href="/static/shop.css">
+</head>
+<body data-page="search" data-basket-word="basket">
+  <header class="site-header">
+    <a class="site-name" href="/">Practice Bookshop</a>
+    
+    <nav class="site-nav" aria-label="Main">
+      <a href="/">Search</a>
+      <a href="/basket.html">Basket (<span id="basket-count" data-testid="basket-count">0</span>)</a>
+      <a href="/help.html">Order help</a>
+      <a href="/orders.html">Orders</a>
+    </nav>
+  </header>
+  <main class="content">
+    <h1>Find a book</h1>
+    <section class="card">
+      <form id="search-form" class="search-form" role="search" action="/">
+        <div class="field">
+          <label for="search-box">Search books</label>
+          <input id="search-box" name="q" type="search" data-testid="search-box" autocomplete="off">
+          <button class="button search-button" type="submit" data-testid="search-button">Search</button>
+        </div>
+      </form>
+    </section>
+    <section class="card">
+      <p id="search-status" class="status" role="status">1 book found.</p>
+      <ul id="results" class="results" data-testid="results"><li class="result"><a class="result-link" href="book.html?id=b1">Learning to Test</a><span class="result-author">A. Rao</span><span class="result-price">18.00</span></li></ul>
+    </section>
+  </main>
+
+
+</body></html>

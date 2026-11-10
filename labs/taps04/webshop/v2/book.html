@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Book · Practice Bookshop</title>
+  <link rel="stylesheet" href="/static/shop.css">
+</head>
+<body data-page="book" data-basket-word="bag">
+  <p class="practice-banner">Practice shop for UpModel labs. Not a real shop: no real books, orders or customers.</p>
+  <header class="site-header">
+    <a class="site-name" href="/">Practice Bookshop</a>
+    <form id="search-form" class="header-search" role="search" action="/">
+        <div class="field">
+          <label for="search-box">Search the shop</label>
+          <input id="search-box" name="q" type="search" data-testid="search-input" autocomplete="off">
+          <button class="button search-button" type="submit" data-testid="search-go">Go</button>
+        </div>
+      </form>
+    <nav class="site-nav" aria-label="Main">
+      <a href="/">Search</a>
+      <a href="/basket.html">Bag (<span id="basket-count" data-testid="basket-count">0</span>)</a>
+      <a href="/help.html">Order help</a>
+      <a href="/orders.html">Orders</a>
+    </nav>
+  </header>
+  <main class="content">
+    <section class="card">
+      <h1 id="book-title">Loading...</h1>
+      <p>by <span id="book-author"></span> · <span id="book-price" data-testid="book-price"></span></p>
+      <div class="field">
+        <label for="quantity">Quantity</label>
+        <input id="quantity" type="number" min="1" max="10" value="1" data-testid="quantity">
+        <button id="add-button" class="button" type="button" data-testid="add-to-bag">Add to bag</button>
+      </div>
+      <p id="add-status" class="status" role="status"></p>
+      <p><a href="/basket.html">Go to your bag</a></p>
+    </section>
+  </main>
+  <script src="/static/shop.js"></script>
+</body>
+</html>

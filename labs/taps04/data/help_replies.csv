@@ -1,0 +1,9 @@
+reply_id,typed,must_hold,must_not_show
+R1,BK-1001,BK-1001|shipped,
+R2,BK-1003,BK-1003|delivered,
+R3,BK-1004,BK-1004|cancelled,
+R4,BK-1002,,Tomas|shipped|out for delivery
+R5,BK-9999,BK-9999,Tomas|shipped
+R6,bk-1001,,Tomas|out for delivery
+R7,  BK-1001  ,shipped,Tomas
+R8,,BK-1001,Tomas|shipped

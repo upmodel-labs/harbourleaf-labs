@@ -1,0 +1,11 @@
+reply_id,reply
+R1,Good news: order BK-1001 has shipped. Status: shipped.
+R2,Your order BK-1001 is shipped and on its way.
+R3,BK-1001 - status: shipped.
+R4,Order BK-1001 was shipped yesterday.
+R5,Order BK-1001 is out for delivery.
+R6,"Order BK-1001 is shipped. The other order, BK-1002 for Tomas, is out for delivery."
+R7,We can't find that order number.
+R8,Order BK-1001 is shipped. Order BK-1002 is out for delivery.
+R9,Your order has shipped.
+R10,Order BK-1001 is delivered.

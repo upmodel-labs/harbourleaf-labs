@@ -1,0 +1,10 @@
+[
+  {"id": "b1", "title": "Learning to Test", "author": "A. Rao", "price": 18.00},
+  {"id": "b2", "title": "The Slow Page", "author": "M. Chen", "price": 14.00},
+  {"id": "b3", "title": "Queues and Lines", "author": "J. Okafor", "price": 21.00},
+  {"id": "b4", "title": "A Small Guide to Percentiles", "author": "S. Iyer", "price": 12.00},
+  {"id": "b5", "title": "Testing in the Rain", "author": "L. Moreau", "price": 16.50},
+  {"id": "b6", "title": "The Patient Tester", "author": "K. Mensah", "price": 19.00},
+  {"id": "b7", "title": "Maps of Small Towns", "author": "R. Dubois", "price": 23.00},
+  {"id": "b8", "title": "Notes on Waiting", "author": "P. Nair", "price": 11.00}
+]

@@ -1,0 +1,10 @@
+{
+  "_note": "Practice orders for the order help box. Fictional; made for the lab. The learner's own order is BK-1001. BK-1002 belongs to another customer: the help box must never show its details.",
+  "you": "Asha",
+  "orders": [
+    {"id": "BK-1001", "customer": "Asha", "status": "shipped"},
+    {"id": "BK-1002", "customer": "Tomas", "status": "out for delivery"},
+    {"id": "BK-1003", "customer": "Asha", "status": "delivered"},
+    {"id": "BK-1004", "customer": "Asha", "status": "cancelled"}
+  ]
+}

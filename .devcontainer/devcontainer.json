@@ -1,0 +1,10 @@
+{
+  "name": "Practice labs (HLF-P61 to HLF-P65)",
+  "image": "mcr.microsoft.com/devcontainers/python:1-3.12",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": { "version": "22" },
+    "ghcr.io/devcontainers/features/java:1": { "version": "17", "installMaven": "true" }
+  },
+  "postCreateCommand": "pip install pytest==9.1.1 pytest-playwright==0.10.0 playwright==1.63.0 pytest-xdist==3.8.0 selenium==4.52.0 && python -m playwright install --with-deps chromium",
+  "forwardPorts": [8000]
+}

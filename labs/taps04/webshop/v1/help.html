@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Order help · Practice Bookshop</title>
+  <link rel="stylesheet" href="/static/shop.css">
+</head>
+<body data-page="help" data-basket-word="basket">
+  <p class="practice-banner">Practice shop for UpModel labs. Not a real shop: no real books, orders or customers.</p>
+  <header class="site-header">
+    <a class="site-name" href="/">Practice Bookshop</a>
+    
+    <nav class="site-nav" aria-label="Main">
+      <a href="/">Search</a>
+      <a href="/basket.html">Basket (<span id="basket-count" data-testid="basket-count">0</span>)</a>
+      <a href="/help.html">Order help</a>
+      <a href="/orders.html">Orders</a>
+    </nav>
+  </header>
+  <main class="content">
+    <h1>Where is my order?</h1>
+    <section class="card">
+      <form id="help-form">
+        <div class="field">
+          <label for="order-box">Order number</label>
+          <input id="order-box" name="order" type="text" data-testid="order-box" autocomplete="off">
+          <button class="button" type="submit" data-testid="ask-button">Ask</button>
+        </div>
+      </form>
+      <p id="help-asked" class="status" data-testid="help-asked"></p>
+      <div id="help-reply" class="reply" role="status" aria-live="polite" data-testid="help-reply"></div>
+    </section>
+  </main>
+  <script src="/static/shop.js"></script>
+</body>
+</html>

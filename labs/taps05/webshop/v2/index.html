@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Search · Practice Bookshop</title>
+  <link rel="stylesheet" href="/static/shop.css">
+</head>
+<body data-page="search" data-basket-word="bag">
+  <p class="practice-banner">Practice shop for UpModel labs. Not a real shop: no real books, orders or customers.</p>
+  <header class="site-header">
+    <a class="site-name" href="/">Practice Bookshop</a>
+    <form id="search-form" class="header-search" role="search" action="/">
+        <div class="field">
+          <label for="search-box">Search the shop</label>
+          <input id="search-box" name="q" type="search" data-testid="search-input" autocomplete="off">
+          <button class="button search-button" type="submit" data-testid="search-go">Go</button>
+        </div>
+      </form>
+    <nav class="site-nav" aria-label="Main">
+      <a href="/">Search</a>
+      <a href="/basket.html">Bag (<span id="basket-count" data-testid="basket-count">0</span>)</a>
+      <a href="/help.html">Order help</a>
+      <a href="/orders.html">Orders</a>
+    </nav>
+  </header>
+  <main class="content">
+    <h1>Find a book</h1>
+    <section class="card">
+      <p id="search-status" class="status" role="status"></p>
+      <ul id="results" class="results" data-testid="results"></ul>
+    </section>
+  </main>
+  <script src="/static/shop.js"></script>
+</body>
+</html>

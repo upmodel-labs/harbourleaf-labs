@@ -1,0 +1,11 @@
+idea,pytest,playwright_test,testng
+start the browser,page fixture (pytest-playwright),{ page } fixture,new ChromeDriver(options) with --headless=new in @BeforeMethod
+find an element,"page.get_by_label(""Quantity"")","page.getByLabel('Quantity')","driver.findElement(By.id(""quantity""))"
+wait,auto-wait and expect(...) retries,,
+check,"expect(locator).to_have_text(""x"")","await expect(locator).toHaveText('x')","Assert.assertEquals(actual, expected)"
+set-up,fixture before yield,,
+clean-up,fixture after yield,,
+share data,"@pytest.mark.parametrize(""a, b"", rows) or a fixture that returns a value",,
+label a group,@pytest.mark.smoke,,
+run one group,pytest -m smoke,,
+run in parallel,pytest -n auto,,

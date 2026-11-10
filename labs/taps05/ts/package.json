@@ -1,0 +1,13 @@
+{
+  "name": "taps05-ts",
+  "private": true,
+  "version": "1.0.0",
+  "description": "TypeScript Playwright Test project for the practice bookshop (HLF-P65)",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0",
+    "@types/node": "^22.0.0"
+  }
+}

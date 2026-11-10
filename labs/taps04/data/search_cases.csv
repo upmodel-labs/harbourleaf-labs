@@ -1,0 +1,7 @@
+case_id,term,expected_count
+word-in-three-titles,test,3
+common-word,the,3
+one-title,slow,1
+capital-letters,NOTES,1
+by-author,okafor,1
+no-match,zzz,0

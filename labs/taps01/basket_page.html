@@ -1,0 +1,31 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Basket · Practice Bookshop</title>
+  <link rel="stylesheet" href="/static/shop.css">
+</head>
+<body data-page="basket" data-basket-word="basket">
+  <header class="site-header">
+    <a class="site-name" href="/">Practice Bookshop</a>
+    
+    <nav class="site-nav" aria-label="Main">
+      <a href="/">Search</a>
+      <a href="/basket.html">Basket (<span id="basket-count" data-testid="basket-count">2</span>)</a>
+      <a href="/help.html">Order help</a>
+      <a href="/orders.html">Orders</a>
+    </nav>
+  </header>
+  <main class="content">
+    <h1>Your basket</h1>
+    <section class="card">
+      <table class="table">
+        <thead><tr><th>Book</th><th>Quantity</th><th>Price</th><th><span class="muted">Action</span></th></tr></thead>
+        <tbody id="basket-lines" data-testid="basket-lines"><tr class="basket-line" data-book-id="b1"><td class="line-title">Learning to Test</td><td class="line-qty">2</td><td class="line-total">36.00</td><td><button class="remove-button" type="button">Remove</button></td></tr></tbody>
+      </table>
+      <p id="basket-empty" class="status" hidden="">Your basket is empty.</p>
+      <p id="basket-total" class="total" data-testid="basket-total">Total: 36.00</p>
+      <button id="place-order" class="button" type="button" data-testid="place-order">Place order</button>
+      <p id="order-status" class="status" role="status" data-testid="order-status"></p>
+    </section>
+  </main>
+  </body></html>
