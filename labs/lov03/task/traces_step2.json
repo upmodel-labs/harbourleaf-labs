@@ -1,0 +1,96 @@
+{
+  "description": "Two supplied runs of the same request: calls, arguments, results and the reply. No verdict labels.",
+  "traces": {
+    "A": {
+      "notes": "Sam to bring the discussion questions by 19 November.",
+      "calls": [
+        {
+          "tool": "find_member",
+          "args": {
+            "name": "Sam"
+          },
+          "result": {
+            "members": [
+              {
+                "key": "mem-87e49b",
+                "name": "Sam"
+              }
+            ]
+          }
+        },
+        {
+          "tool": "add_followup",
+          "args": {
+            "member_key": "mem-87e49b",
+            "text": "bring the discussion questions",
+            "due_date": "2026-11-19"
+          },
+          "result": {
+            "status": "ok"
+          }
+        },
+        {
+          "tool": "post_summary",
+          "args": {
+            "text": "1 follow-up: Sam: bring the discussion questions, due 2026-11-19"
+          },
+          "result": {
+            "status": "ok"
+          }
+        }
+      ],
+      "reply": "Done. 1 follow-up: Sam: bring the discussion questions, due 2026-11-19"
+    },
+    "B": {
+      "notes": "Sam to bring the discussion questions by 19 November.",
+      "calls": [
+        {
+          "tool": "find_member",
+          "args": {
+            "name": "Sam"
+          },
+          "result": {
+            "members": [
+              {
+                "key": "mem-87e49b",
+                "name": "Sam"
+              }
+            ]
+          }
+        },
+        {
+          "tool": "add_followup",
+          "args": {
+            "member_key": "mem-87e49b",
+            "text": "bring the discussion questions",
+            "due_date": "2026-11-19"
+          },
+          "result": {
+            "status": "timeout"
+          }
+        },
+        {
+          "tool": "add_followup",
+          "args": {
+            "member_key": "mem-87e49b",
+            "text": "bring the discussion questions",
+            "due_date": "2026-11-19"
+          },
+          "result": {
+            "status": "ok"
+          }
+        },
+        {
+          "tool": "post_summary",
+          "args": {
+            "text": "1 follow-up: Sam: bring the discussion questions, due 2026-11-19"
+          },
+          "result": {
+            "status": "ok"
+          }
+        }
+      ],
+      "reply": "Done. 1 follow-up: Sam: bring the discussion questions, due 2026-11-19"
+    }
+  }
+}

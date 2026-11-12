@@ -1,0 +1,9 @@
+{
+  "T1": {"title": "Trajectory test in the pipeline", "runs": 30, "seed_start": 0,
+         "notes": "Sam to bring the discussion questions by 19 November."},
+  "T2": {"title": "The stability number you may report", "runs": 12, "seed_start": 101,
+         "notes": "Sam to bring the discussion questions by 19 November."},
+  "T3": {"title": "A call the assistant must never make",
+         "notes": "Sam to hand over the group page by 26 November.\nOdile is leaving the group after 26 November.",
+         "flag_to_try": "remove_leaving"}
+}

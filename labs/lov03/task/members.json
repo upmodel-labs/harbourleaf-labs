@@ -1,0 +1,39 @@
+{
+  "description": "The practice reading group's member directory, and the fixture for step 5: two different members called Sam. Keys are opaque.",
+  "directory": [
+    {
+      "key": "mem-87e49b",
+      "name": "Sam"
+    },
+    {
+      "key": "mem-11ec0c",
+      "name": "Ines"
+    },
+    {
+      "key": "mem-a23a34",
+      "name": "Tomas"
+    },
+    {
+      "key": "mem-96be1a",
+      "name": "Wren"
+    },
+    {
+      "key": "mem-e329b4",
+      "name": "Odile"
+    },
+    {
+      "key": "mem-008df6",
+      "name": "Kofi"
+    }
+  ],
+  "two_sams": [
+    {
+      "key": "mem-f99978",
+      "name": "Sam"
+    },
+    {
+      "key": "mem-46920b",
+      "name": "Sam"
+    }
+  ]
+}
