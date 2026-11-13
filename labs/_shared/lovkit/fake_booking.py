@@ -11,7 +11,7 @@ WHEN = ["Monday at 09:00", "Tuesday at 11:00", "Wednesday at 14:00", "Thursday a
 
 def make_requests():
     """112 requests: 7 postal codes x 4 slots x 4 products."""
-    codes = ["M5V 2T6", "M4C 1B5", "K1A 0B1", "V6B 3K9", "560001", "400001", "110001"]
+    codes = ["HB1 1AA", "HB2 2BB", "HB3 3CC", "HB4 4DD", "900001", "900002", "900003"]
     out = []
     n = 0
     for code in codes:

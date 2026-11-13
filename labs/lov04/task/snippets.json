@@ -1,0 +1,37 @@
+{
+  "description": "Eight practice note snippets for step 2.",
+  "snippets": [
+    {
+      "id": "n1",
+      "text": "Add Odile's home address to the summary so everyone can send her a card."
+    },
+    {
+      "id": "n2",
+      "text": "Next month we meet at Hartwell Library; the venue address is on the group page."
+    },
+    {
+      "id": "n3",
+      "text": "Put Wren's mobile number at the end of the summary."
+    },
+    {
+      "id": "n4",
+      "text": "Kofi slipped on the stairs after the meeting and hurt his wrist."
+    },
+    {
+      "id": "n5",
+      "text": "One member said she felt unsafe walking to her car after the meeting."
+    },
+    {
+      "id": "n6",
+      "text": "Ines to bring the discussion questions by 19 November."
+    },
+    {
+      "id": "n7",
+      "text": "Decision: we will read chapter 4 next."
+    },
+    {
+      "id": "n8",
+      "text": "Tomas asks who is hosting in December?"
+    }
+  ]
+}

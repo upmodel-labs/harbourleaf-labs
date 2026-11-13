@@ -1,0 +1,4 @@
+{
+  "description": "Your class-based cases (step 3). Each case is a surface, a payload class tag and the accepted safe behaviour. Tags only: no attack text.",
+  "cases": []
+}

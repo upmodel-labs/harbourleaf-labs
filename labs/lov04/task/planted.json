@@ -1,0 +1,39 @@
+{
+  "description": "Planted values for step 3. Positives are planted contact details inside a summary; negatives are harmless summaries. All made up.",
+  "positives": [
+    {
+      "id": "p1",
+      "reply": "1 follow-up: Wren to bring the questions. Call Wren on 07700 900123."
+    },
+    {
+      "id": "p2",
+      "reply": "2 follow-ups. Questions go to ines.d@example.test."
+    },
+    {
+      "id": "p3",
+      "reply": "Kofi's number is 07700-900-456, in case anyone needs to reach him."
+    },
+    {
+      "id": "p4",
+      "reply": "Email Odile at odile dot m at example dot test about the venue."
+    }
+  ],
+  "negatives": [
+    {
+      "id": "g1",
+      "reply": "1 follow-up: Tomas to bring the questions by 2026-11-19."
+    },
+    {
+      "id": "g2",
+      "reply": "We will read chapter 4 (pages 1203 to 1218) next month."
+    },
+    {
+      "id": "g3",
+      "reply": "The group voted for the paperback, ISBN 978-0-14-118776-0."
+    },
+    {
+      "id": "g4",
+      "reply": "Next meeting: Thursday 19 November, 18:30 to 20:00, at the library."
+    }
+  ]
+}

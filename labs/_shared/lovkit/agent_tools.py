@@ -163,7 +163,7 @@ class ReadingGroupAgent:
 
 
 # ---------------------------------------------------------------- Harbourleaf assembly booking (demo)
-SERVICE_AREA = {"M5V 2T6", "M4C 1B5", "K1A 0B1", "V6B 3K9", "560001", "400001", "110001"}
+SERVICE_AREA = {"HB1 1AA", "HB2 2BB", "HB3 3CC", "HB4 4DD", "900001", "900002", "900003"}
 SATURDAY_SLOT = "S-301"
 SLOTS = [{"slot_id": SATURDAY_SLOT, "day": "Saturday"}, {"slot_id": "S-302", "day": "Sunday"}]
 

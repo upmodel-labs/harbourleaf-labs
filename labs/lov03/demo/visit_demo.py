@@ -9,9 +9,9 @@ import _setup  # noqa: F401
 from lovkit.agent_tools import FakeVisitTools, VisitAgent
 
 SCENARIOS = [
-    ("Oakmere unit, Saturday", {"product": "Oakmere 4-shelf unit", "postal_code": "M5V 2T6", "day": "Saturday"}),
-    ("Halden wardrobe, Saturday", {"product": "Halden 2-door wardrobe", "postal_code": "K1A 0B1", "day": "Saturday"}),
-    ("Tarn wall shelf, Saturday", {"product": "Tarn wall shelf", "postal_code": "560001", "day": "Saturday"}),
+    ("Oakmere unit, Saturday", {"product": "Oakmere 4-shelf unit", "postal_code": "HB1 1AA", "day": "Saturday"}),
+    ("Halden wardrobe, Saturday", {"product": "Halden 2-door wardrobe", "postal_code": "HB3 3CC", "day": "Saturday"}),
+    ("Tarn wall shelf, Saturday", {"product": "Tarn wall shelf", "postal_code": "900001", "day": "Saturday"}),
 ]
 OUTSIDE_AREA = {"product": "Tarn wall shelf", "postal_code": "ZZ1 1ZZ", "day": "Saturday"}
 
